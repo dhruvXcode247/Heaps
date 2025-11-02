@@ -50,6 +50,5 @@ int main() {
     h1.insert();
     h1.insert();
     h1.print();
-    
     return 0;
 }
